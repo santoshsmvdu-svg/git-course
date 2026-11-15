@@ -2,4 +2,4 @@ Hello world. I am here to learn git command.
 take input from user and add them.
 sumit data to database.
 This is what we wanted to do.
-create an user.
+create an user. and wnat to assign some role.
