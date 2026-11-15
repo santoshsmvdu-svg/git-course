@@ -1,2 +1,3 @@
 Hello world. I am here to learn git command.
 take input from user and add them.
+sumit data to database.
